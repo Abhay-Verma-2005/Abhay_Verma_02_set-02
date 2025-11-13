@@ -2,7 +2,8 @@
 In this project we have to make a Ui in React and tailwind where we user can see all memes in page.
 
 ## Url :
-`h`
+### GitHub : `https://github.com/Abhay-Verma-2005/Abhay_Verma_02_set-02`
+### Vercel : ``
 
 ## Feature :
 <ul>
@@ -11,16 +12,26 @@ In this project we have to make a Ui in React and tailwind where we user can see
   <li>We have an meme fetch api which gives us simple memes wwith a caption</li>
   </ul>
 
-## How to run
-For run project :
-<br><br>
-Step 1 : Go to the project folder
-<br>
-Step 2 : Type `npm run dev`
-<br>
-OR
-<br>
-Step 3 : click on the url in readme file
+---
+
+##  How to Run
+
+To run this project locally, follow these steps:
+
+1. **Open the project folder** in your terminal:
+
+   ```bash
+   cd your-project-folder
+   ```
+
+2. **Start the development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+3. Once the server starts, **click the local URL** shown in the terminal
+
 
 ## Working
 ### For Search Bar : I have make all responses from api and by Map and pass text as input as a parameter to filter out the memes 
