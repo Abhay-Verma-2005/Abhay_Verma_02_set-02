@@ -3,7 +3,7 @@ In this project we have to make a Ui in React and tailwind where we user can see
 
 ## Url :
 ### GitHub : `https://github.com/Abhay-Verma-2005/Abhay_Verma_02_set-02`
-### Vercel : ``
+### Vercel : `make little descriptive what i do in project`
 
 ## Feature :
 <ul>
@@ -38,3 +38,4 @@ To run this project locally, follow these steps:
 
 # Deploy :
 ### Deploy on vercel
+
